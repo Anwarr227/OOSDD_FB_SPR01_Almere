@@ -6,4 +6,4 @@ Repository to test skills
 - Zorg dat deze aanpassing zichtbaar wordt in jouw online versie op jouw GitHub account (gebruik hiervoor de juiste techniek)
 - Zorg ervoor dat het niet meer mogelijk is om README aan te passen hierna.
 
-## Ik, Anwar, heb dit aangepast (Lokaal).
+## Ik, Anwar, heb dit aangepast (Lokaal-branch).
